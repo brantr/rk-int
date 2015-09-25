@@ -1,11 +1,11 @@
 /*! \file rk_int.c
  *  \brief Function definitions for numerical integration routines.
  */
-#include<math.h>
-#include<stdio.h>
-#include<stdlib.h>
-#include<gsl/gsl_sf_gamma.h>
-#include"rk_int.h"
+#include <math.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <gsl/gsl_sf_gamma.h>
+#include "rk_int.h"
 /********************************************************
 *
 *     Numerical Integration Subroutines.
